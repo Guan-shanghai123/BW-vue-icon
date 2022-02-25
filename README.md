@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# BW-vue-icon
 
 ## Project setup
 ```

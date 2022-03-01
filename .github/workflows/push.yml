@@ -30,11 +30,8 @@ jobs:
     - name: GitHub Pages
       uses: crazy-max/ghaction-github-pages@v1.2.5
       with:
-        # build_dir: dist
-        # 发布到指定分支
-          BRANCH: master
-        # 构建成果所在目录,默认位置都是在根目录
-          FOLDER:  ./docs/.vuepress/dist
+        build_dir: dist
+ 
 
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

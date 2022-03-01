@@ -1,10 +1,7 @@
 # BW-vue-icon
 
 ## 预览地址
-```
  See [预览地址](https://guan-shanghai123.github.io/BW-vue-icon/).
-
-```
 
 ## Project setup
 ```

@@ -2,7 +2,8 @@
 
 ## 预览地址
 ```
- See (https://guan-shanghai123.github.io/BW-vue-icon/)
+ See [预览地址](https://guan-shanghai123.github.io/BW-vue-icon/).
+
 ```
 
 ## Project setup

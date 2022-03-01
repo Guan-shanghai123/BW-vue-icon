@@ -1,5 +1,10 @@
 # BW-vue-icon
 
+## 预览地址
+```
+ See (https://guan-shanghai123.github.io/BW-vue-icon/)
+```
+
 ## Project setup
 ```
 yarn install

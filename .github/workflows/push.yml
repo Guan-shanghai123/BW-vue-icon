@@ -46,4 +46,4 @@ jobs:
         content: |
           哈哈，咱们的图标更新啦！
           请使用 yarn upgrade bw-vue-icon --latest 更新。
-          在线查看图标：https://guan-shanghai123.github.io/bw-vue-icon/
+          在线查看图标：https://guan-shanghai123.github.io/BW-vue-icon/

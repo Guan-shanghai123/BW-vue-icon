@@ -30,9 +30,8 @@ jobs:
     - name: GitHub Pages
       uses: crazy-max/ghaction-github-pages@v1.2.5
       with:
-        # build_dir: dist
-          branch: gh-pages
-          folder: dist
+        build_dir: dist
+        branch: gh-pages
  
 
       env:

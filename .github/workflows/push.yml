@@ -29,15 +29,8 @@ jobs:
     - run: yarn build-bundle
     - name: GitHub Pages
       uses: crazy-max/ghaction-github-pages@v1.2.5
-      # with:
-      # build_dir: dist
-      # branch: gh-pages
-      with: 
-        branch: gh-pages
-        folder: dist
-        target_branch: gh-pages
-        keep_history: false
-        allow_empty_commit: true
+      with:
+        build_dir: dist
  
 
       env:
